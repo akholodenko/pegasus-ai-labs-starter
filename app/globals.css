@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  STUDENT CUSTOMIZATION AREA — global styles
+  TRY CHANGING THESE COLORS: tweak the gradient stops below (Tailwind @apply or plain CSS).
+*/
+html {
+  scroll-behavior: smooth;
+}
