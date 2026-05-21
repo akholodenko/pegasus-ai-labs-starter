@@ -1,10 +1,2 @@
-Connect this app to Supabase.
-
-Create functionality to:
-
-- load tasks from the database
-- display tasks on the dashboard
-- add new tasks
-- update the task list automatically
-
-  Keep the design modern and beginner-friendly.
+NEXT_PUBLIC_SUPABASE_URL=YOUR_PROJECT_URL
+NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_ANON_KEY
