@@ -1,10 +1,10 @@
-Connect this app to Supabase.
+Connect this Next.js app to Supabase using the environment variables already added.
 
 Create functionality to:
 
 - load tasks from the database
 - display tasks on the dashboard
 - add new tasks
-- update the task list automatically
+- update the UI automatically
 
-  Keep the design modern and beginner-friendly.
+Use modern beginner-friendly code and keep the existing design style.
